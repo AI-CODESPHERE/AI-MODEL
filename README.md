@@ -1,2 +1,2 @@
 # AI-MODEL
-The main aim of this project is to develop an AI machine learning model that will be used in Kenyan Education system
+The main aim of platform is collaborate in building various projects that leverages AI and machine learning models that will be used in different sectors of economy
